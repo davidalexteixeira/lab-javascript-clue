@@ -84,11 +84,50 @@ name: Guest House
 name: Patio
 */
 
-// Characters Collection
-var charactersArray = [];
+// // Characters Collection
+// var charactersArray = [];
 
-// Rooms' Collection
-var roomsArray = [];
+// // Rooms' Collection
+// var roomsArray = [];
 
-// Weapons Collection
-var weaponsArray = [];
+// // Weapons Collection
+// var weaponsArray = [];
+
+// var missScarlet = {
+//     first_name: 'Kasandra',
+//     last_name: 'Scarlet',
+//     color: 'red',
+//     description: 'She is an A-list movie star with a dark past',
+//     age: 31,
+//     occupation: 'Actor',
+// }
+
+// var mrsPeacock = {
+//     first_name: 'Eleanor',
+//     last_name: 'Peacock',
+//     color: 'blue',
+//     description: 'She is from a wealthy family and uses her status and money to earn popularity',
+//     age: 36,
+//     occupation: 'Socialité'
+//     }
+
+// var mrMustard = {
+//     first_name: 'Jack',
+//     last_name: 'Mustard',
+//     color: 'yellow',
+//     description: 'He is a former football player who tries to get by on his former glory',
+//     age: 62,
+//     occupation: 'Retired Football player',
+// }
+
+// var weapons = [
+// {name: 'rope', weight: 10},
+// {name: 'knife', weight: 8},
+// {name: 'candlestick', weight: 2},
+// {name: 'dumbbell', weight: 30},
+// {name: 'poison', weight: 2},
+// {name: 'axe', weight: 15},
+// {name: 'bat', weight: 13},
+// {name: 'trophy', weight: 25},
+// {name: 'pistol', weight: 20}
+// ]
